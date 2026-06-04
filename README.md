@@ -117,12 +117,6 @@ vercel --prod
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748B,50:475569,100:334155&height=120&section=footer" width="100%"/>
